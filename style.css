@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+
+}
+.btn{
+    text-decoration: none;
+    background-color: aquamarine;
+    color: aliceblue;
+    font-size:28px;
+    padding:10px 15px;
+    border-radius: 7px;
+    border: chartreuse;
+    background: Lorem ipsum dolor sit amet consectetur 
+    adipisicing elit.Eligendi placeat
+     beatae nesciunt esse earum  incidunt ea,
+    doloribus adipisci sed suscipit quod
+    ill soluta corrupti dolores aperiam
+    distinctio dicta,fugiat vitae! ;
+}
+block{
+    background: fixed;
+}
